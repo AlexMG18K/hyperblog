@@ -1,0 +1,125 @@
+[33mcommit 743bcdaa7732d8f56726610f7ef9d5201d4d806b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alexander Montañez <montanez375@gmail.com>
+Date:   Fri Aug 5 20:20:46 2022 -0500
+
+    mi primer commit de Daniel
+
+[33mcommit b5f9f29126a0988409e8ee764aec03abbc15c8a7[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/header[m[33m, [m[1;31morigin/footer[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alexander Montañez <montanez375@gmail.com>
+Date:   Fri Aug 5 19:33:32 2022 -0500
+
+     version del hyperblog 2
+
+[33mcommit fad0fac2639271503af4d6cf9cd690c3e10274e6[m
+Author: AlexMG18K <104460405+AlexMG18K@users.noreply.github.com>
+Date:   Fri Aug 5 18:15:17 2022 -0500
+
+    cambie el titulo del blogspot
+    
+    Lo hice!
+
+[33mcommit c5cbb3ee4d1ffdd786185d3f4ee14eff1f1f7cf8[m
+Merge: 53b7047 9f1e0ea
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Fri Aug 5 18:07:22 2022 -0500
+
+    Merge branch 'master' of https://github.com/AlexMG18K/hyperblog
+
+[33mcommit 53b70472f09af42b397c9330ed2078bb01c777c8[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Fri Aug 5 18:06:51 2022 -0500
+
+     los cambios fueron añadidos
+
+[33mcommit 9f1e0eaa95a9a0dea9829badd18175b33a6bbb92[m
+Author: AlexMG18K <104460405+AlexMG18K@users.noreply.github.com>
+Date:   Fri Aug 5 17:54:45 2022 -0500
+
+    Initial commit
+
+[33mcommit b5fcd0b4457c074b2f0528744536401f600b8e3b[m
+Merge: 7591477 f47680b
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Tue Aug 2 22:56:43 2022 -0500
+
+    solucion conflicto
+
+[33mcommit 75914779322e371a7b7cd76555befbbc92c14860[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Tue Aug 2 22:51:20 2022 -0500
+
+    cambie la cabecera
+
+[33mcommit f47680b1d1c78277e453d9f0db04756be066f7e1[m[33m ([m[1;31morigin/cabecera[m[33m)[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Tue Aug 2 22:49:46 2022 -0500
+
+    modifique la cabecera y el color del texto
+
+[33mcommit 461857e7949ab4c509609dfab5a0779ec7c720e1[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Tue Aug 2 22:38:07 2022 -0500
+
+    volvi a una topografia menos controversial
+
+[33mcommit 1e646ff27a4e9336dcbd18129338590ffdcdf683[m
+Merge: 3c79832 72b414b
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Tue Aug 2 22:00:40 2022 -0500
+
+    Merge branch 'cabecera'
+
+[33mcommit 3c79832d70b42c390f15054a75ba6e55ce67ae33[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Tue Aug 2 21:58:13 2022 -0500
+
+    Agregado el contenido adicional del blog y la mejor tipogafria
+
+[33mcommit 72b414b0be7ee8bfc4f6575d5f9c98cb69f971ad[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Tue Aug 2 21:56:14 2022 -0500
+
+    Finalizada la cabecera con diseño azul
+
+[33mcommit 6135508c23dd6094482df41f894017c0d92306fd[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Tue Aug 2 19:55:49 2022 -0500
+
+    Estructura inicial de la cabecera
+
+[33mcommit 6e107886f5821aa29b0c2dd12bcb1d11ea32ee56[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Tue Aug 2 19:45:35 2022 -0500
+
+    commit al master del blogpost en su version mas reciente
+    Please enter the commit message for your changes. Lines starting
+
+[33mcommit a9160e3aaa1bd051dbdbdee13212a0d3f9abe098[m[33m ([m[1;33mtag: v.1[m[33m)[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Tue Aug 2 19:05:16 2022 -0500
+
+    arranco mi proyecto real
+
+[33mcommit 0469b73e18463dfcd923fd3ba93d7aff0201e9c8[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Fri Jul 29 20:41:03 2022 -0500
+
+    Agregamos el man aspero
+
+[33mcommit c8df2dc07c97604e888b7a545ab1876814c10470[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Fri Jul 29 20:39:49 2022 -0500
+
+    damos un mensaje para el commit
+
+[33mcommit 97e9906c373dd0918325f152054f989e900a96ef[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Fri Jul 29 20:36:13 2022 -0500
+
+    nuevo archivo
+
+[33mcommit 697b6f7e31d0d3521a9ccb14109e49515894d910[m
+Author: Alexander Montañez <Alexandermontanezg18k@outlook.com>
+Date:   Fri Jul 29 20:28:35 2022 -0500
+
+    este es mi primer commit
